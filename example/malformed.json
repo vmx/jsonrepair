@@ -1,0 +1,10 @@
+{
+  "a key": "value with two trailing commas",,
+  "and an array": [
+      "with",
+      "a",
+      "trailing",
+      "comma",
+      "inside",
+   ]
+}

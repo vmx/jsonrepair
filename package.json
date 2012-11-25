@@ -1,0 +1,36 @@
+{
+    "name": "jsonrepair",
+    "description": "Repair a malformed JSON stream",
+    "version": "0.1.0",
+    "main" : "index.js",
+    "directories" : {
+        "example" : "example"
+    },
+    "author": {
+        "name": "Volker Mische",
+        "email": "volker.mische@gmail.com",
+        "url": "http://vmx.cx/"
+    },
+    "homepage": "https://github.com/vmx/jsonrepair",
+    "repository": {
+        "type": "git",
+        "url":  "git://github.com/vmx/jsonrepair.git"
+    },
+    "bugs": "https://github.com/vmx/jsonrepair/issues",
+    "keywords": [
+        "JSON",
+        "stream",
+        "streaming",
+        "repair",
+        "malformed"
+    ],
+    "licenses" : [
+        {
+            "type": "MIT",
+            "url": "http://github.com/vmx/raw/master/LICENSE"
+        }
+    ],
+    "dependencies": {
+        "clarinet" : "~0.7.0"
+    }
+}
